@@ -1,0 +1,8 @@
+Makefile
+MYMETA.*
+blib/*
+pm_to_blib
+.git/*
+./*.bak
+.travis.yml
+Template-Plugin-Lingua-EN-Inflexion*.tar.gz

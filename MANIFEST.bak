@@ -1,0 +1,6 @@
+lib/Template/Plugin/Lingua/EN/Inflexion.pm
+MANIFEST
+MANIFEST.SKIP
+t/01-basic.t
+t/pod-coverage.t
+t/pod.t
